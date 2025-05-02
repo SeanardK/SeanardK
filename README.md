@@ -47,14 +47,6 @@ I’ve worked on real-world projects valued at over **1 billion IDR**, leading t
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeanardK&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SeanardK&theme=radical" />
-</p>
-
----
-
 ### 📫 Let’s connect!
 - 🌐 Website: [seanard.vercel.app](https://seanard.vercel.app)
 - 💼 LinkedIn: [linkedin.com/in/andreas-kurniawan](https://www.linkedin.com/in/andreas-kurniawan/)
